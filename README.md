@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey sup 👋 Nice to see you here</h1>
-
-
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> hey sup, i'm Aknur</h3>
 <p></br> I'm Aknur, product oriented full-stack developer, currently studying CS & Economics at <img src="[https://cdn-icons-png.flaticon.com/512/197/197564.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdonaldearlcollins.com%2F2016%2F03%2F22%2Fthe-grad-school-maze%2Fnyu-logo%2F&psig=AOvVaw15GNSEVSIyr7tfWBWqGB-7&ust=1721995117472000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOihxveRwocDFQAAAAAdAAAAABAE)" width="13"/> <b>New York University Abu Dhabi</b>. </p>
 <h3>Things I code with</h3>
 <p>
