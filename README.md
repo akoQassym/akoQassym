@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my page! I am a Product oriented Full-Stack Developer, currently studying CS & Economics at New York University Abu Dhabi.</p>
+<p align="left">Welcome to my page! I am a Product oriented Full-Stack Developer. I aspire to solve complex problems with simple solutions. Check out my projects to see more of my work.</p>
 
 ###
 
@@ -12,11 +12,11 @@
 
 <p align="left">🎓 Currently, I am studying Computer Science & Economics at NYU Abu Dhabi (Expected Graduation: May 2025). I am deeply passionate about Software Engineering, Machine Learning, Startups, and Venture Capital.</p>
 
-<p align="left">💻 Recently, I completed my Software Engineering internship at the fintech startup MidChains, where I developed a microservice that processes over 10,000 financial transaction records annually, set up automated tests, and established CI/CD pipelines. Previously, I spent eight months at one of the largest banks in Kazakhstan and founded my own e-commerce startup, helping more than 30 small businesses create personal storefronts and increase sales on social media.</p>
+<p align="left">💻 Recently, I completed my software engineering internship at the fintech startup MidChains, where I developed a microservice that processes over 10,000 financial transaction records annually, set up automated tests, and established CI/CD pipelines. Previously, I spent eight months at one of the largest banks in Kazakhstan and founded my own e-commerce startup, helping more than 30 small businesses create personal storefronts and increase sales on social media.</p>
 
-<p align="left">⚡ I am driven by the challenge of solving complex problems with simple solutions. Check out my projects to see more of my work. In my spare time, I enjoy calisthenics, reading The Information, studying macroeconomics, listening to numerous podcasts, and watching F1 highlights.</p>
+<p align="left">⚡ In my spare time, I enjoy calisthenics, reading *The Information*, studying macroeconomics, listening to numerous podcasts, and watching F1 highlights.</p>
 
-<p align="left">🌱 Right now I am working on a Grandmaster AI chess coach which explains Stockfish analysis in simple human language.</p>
+<p align="left">🌱 Right now, I am working on a Grandmaster AI chess coach, which explains Stockfish analysis in simple human language.</p>
 
 ###
 
