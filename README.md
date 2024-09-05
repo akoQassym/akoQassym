@@ -1,70 +1,48 @@
-<h1 align="left">Hey sup👋, I'm Aknur</h1>
+<h1 align="center">Hey sup👋, I'm Aknur</h1>
+<h3 align="center">Product-oriented Full-Stack Developer</h3>
 
-###
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-repo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-repo/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/your-username/your-repo/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
-<p align="left">Welcome to my page! I am a Product oriented Full-Stack Developer. I aspire to solve complex problems with simple solutions. Check out my projects to see more of my work.</p>
+### About me
 
-###
+- 🎓 Currently, I am studying Computer Science & Economics at **NYU Abu Dhabi** (Expected Graduation: May 2025).
+- 💻 Recently completed a software engineering internship at **MidChains**, a fintech startup, where I developed a microservice processing over 10,000 financial transactions annually.
+- ⚡ In my spare time, I enjoy calisthenics, reading *The Information*, studying macroeconomics, and watching F1 highlights.
+- 🌱 Currently working on a **Grandmaster AI chess coach**, explaining Stockfish analysis in simple human language.
 
-<h2 align="left">About me</h2>
+### I code with:
 
-###
+<p align="left"> 
+    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+    <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+    <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-<p align="left">🎓 Currently, I am studying Computer Science & Economics at <b>NYU Abu Dhabi</b> (Expected Graduation: May 2025). I am deeply passionate about Software Engineering, Machine Learning, Startups, and Venture Capital.</p>
+### Statistics:
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&column=7" alt="Aknur's trophies" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username" alt="Aknur's streak stats" />
+</p>
 
-<p align="left">💻 Recently, I completed my software engineering internship at the fintech startup MidChains, where I developed a microservice that processes over 10,000 financial transaction records annually, set up automated tests, and established CI/CD pipelines. Previously, I spent eight months at one of the largest banks in Kazakhstan and founded my own e-commerce startup, helping more than 30 small businesses create personal storefronts and increase sales on social media.</p>
-
-<p align="left">⚡ In my spare time, I enjoy calisthenics, reading <i>The Information</i>, studying macroeconomics, listening to numerous podcasts, and watching F1 highlights.</p>
-
-<p align="left">🌱 Right now, I am working on a Grandmaster AI chess coach, which explains Stockfish analysis in simple human language.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h2 align="left">Let's connect</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/aknur-kassym" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-
-
+### Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/aknur-kassym" target="_blank"><img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://web.telegram.org/k/#@aknur" target="blank"><img src="https://cdn.simpleicons.org/telegram" alt="Telegram" height="30" width="40" /></a>
+</p>
