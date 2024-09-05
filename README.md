@@ -51,9 +51,9 @@
 </p>
 
 ### Leetcode statistics
-<a href="#">
-  <p align="center"><img src="https://leetcard.jacoblin.cool/aknurq?font=roboto" alt="aknurq" /></p>
-</a>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aknurq?font=roboto" alt="aknurq" />
+</p>
 
 ### Connect with me:
 <p align="left">
