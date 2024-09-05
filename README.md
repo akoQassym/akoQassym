@@ -35,11 +35,16 @@
 
 ### Statistics:
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&column=7" alt="Aknur's trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akoQassym&column=-1" alt="Aknur's trophies" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username" alt="Aknur's streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akoQassym" alt="Aknur's streak stats" />
 </p>
+
+### Leetcode statistics
+<a href="#">
+  <p align="center"><img src="https://leetcard.jacoblin.cool/aknurq?font=roboto" alt="aknurq" /></p>
+</a>
 
 ### Connect with me:
 <p align="left">
