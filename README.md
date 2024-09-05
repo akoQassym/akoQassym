@@ -43,16 +43,12 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=akoQassym&column=-1" alt="Aknur's trophies" />
 </p>
-<a href="#">
-  <p align="left"> 
-    <img src="https://myreadme.vercel.app/api/embed/akoQassym?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="akoQassym" />
-  </p>
-</a>
-<a href="#">
-  <p align="left"> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akoQassym" alt="akoQassym" />
-  </p>
-</a>
+<p align="left"> 
+  <img src="https://myreadme.vercel.app/api/embed/akoQassym?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="akoQassym" />
+</p>
+<p align="left"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akoQassym" alt="akoQassym" />
+</p>
 
 ### Leetcode statistics
 <a href="#">
